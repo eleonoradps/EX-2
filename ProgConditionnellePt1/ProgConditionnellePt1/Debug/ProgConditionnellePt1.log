@@ -1,0 +1,4 @@
+﻿  ProgCondPt1.cpp
+C:\Users\lorna\source\repos\ProgConditionnellePt1\ProgConditionnellePt1\ProgCondPt1.cpp(14,6): warning C4101:  'impair' : variable locale non référencée
+C:\Users\lorna\source\repos\ProgConditionnellePt1\ProgConditionnellePt1\ProgCondPt1.cpp(13,6): warning C4101:  'pair' : variable locale non référencée
+  ProgConditionnellePt1.vcxproj -> C:\Users\lorna\source\repos\ProgConditionnellePt1\Debug\ProgConditionnellePt1.exe

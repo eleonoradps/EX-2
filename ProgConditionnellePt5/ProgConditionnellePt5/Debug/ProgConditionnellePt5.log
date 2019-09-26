@@ -1,0 +1,6 @@
+﻿  ProgCondPt5.cpp
+C:\Users\lorna\source\repos\ProgConditionnellePt5\ProgConditionnellePt5\ProgCondPt5.cpp(11,15): warning C4244:  'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgConditionnellePt5\ProgConditionnellePt5\ProgCondPt5.cpp(17,15): warning C4244:  'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgConditionnellePt5\ProgConditionnellePt5\ProgCondPt5.cpp(23,15): warning C4244:  'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgConditionnellePt5\ProgConditionnellePt5\ProgCondPt5.cpp(29,15): warning C4244:  'initialisation' : conversion de 'float' en 'int', perte possible de données
+  ProgConditionnellePt5.vcxproj -> C:\Users\lorna\source\repos\ProgConditionnellePt5\Debug\ProgConditionnellePt5.exe
